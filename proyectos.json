@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "nombre": "Tecnicas Avanzadas De Inteligencia Artificial Para Detectar Y Combatir Ataques De Ciberseguridad Desconocidos Y Adversarios.",
+        "comunidad": "Castilla y León",
+        "universidad": "Universidad de Valladolid",
+        "IP": "Juan Ignacio Rivas Sánchez",
+        "financiacion": "87.782 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 1,
+        "nombre": "Desarrollo De Modelos De Comportamiento De Usuarios Vulnerables Mediante La Simulacion De Situaciones De Riesgo Potencial En Escenarios De Trafico Urbano Empleando Realidad Virtual",
+        "comunidad": "Madrid",
+        "universidad": "Universidad Politécnica de Madrid",
+        "IP": "Francisco Javier Páez Ayuso",
+        "financiacion": "169.400 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 2,
+        "nombre": "Resistencia Transformadora En Las Escuelas. Contranarrativas En La Educacion Para La Justicia Social",
+        "comunidad": "Madrid",
+        "universidad": "Universidad Autónoma de Madrid",
+        "IP": "Francisco Javier Murillo Torrecilla",
+        "financiacion": "81.070 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 3,
+        "nombre": "En Los Limites De La Violencia (Iii): La Violencia Lenta De Los Imperios Modernos",
+        "comunidad": "Andalucía",
+        "universidad": "Universidad Pablo de Olavide de Sevilla",
+        "IP": "Igor Pérez Tostado",
+        "financiacion": "49.126 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 4,
+        "nombre": "Uso De Sistemas Tecnologicos Avanzados Para Favorecer Entornos Escolares Libres De Violencia Y Promotores De Bienestar Y Salud Mental",
+        "comunidad": "Catalunya",
+        "universidad": "Universitat de Girona",
+        "IP": "Ferran Casas Aznar",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 5,
+        "nombre": "Servicios De Seguridad Basados En La Tecnologia Blockchain",
+        "comunidad": "Islas Baleares",
+        "universidad": "Universidad de las Islas Baleares",
+        "IP": "María Francisca Hinajeros Campos",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 6,
+        "nombre": "Gestion Robusta, Interpretable Y Orientada A Humanos De La Ciberseguridad Y La Seguridad En La Industria 5.0",
+        "comunidad": "Murcia",
+        "universidad": "Universidad de Murcia",
+        "IP": "Félix Jesús García Clemente",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 7,
+        "nombre": "Simuladores De Conduccion Y Tecnologias Geoespaciales Para Estudios De Seguridad Vial",
+        "comunidad": "Madrid",
+        "universidad": "Universidad Politécnica de Madrid",
+        "IP": "María Castro Malpica",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 8,
+        "nombre": "La Condena De Los Excluidos: Fronteras Institucionales De Los Derechos Humanos",
+        "comunidad": "Andalucía",
+        "universidad": "Universidad de Málaga",
+        "IP": "Alberto Daunis Rodríguez",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 9,
+        "nombre": "Variables Psicoambientales Implicadas En La Preocupacion Social Y En La Conducta Frente Al Maltrato Animal",
+        "comunidad": "Canarias",
+        "universidad": "Universidad de La Laguna",
+        "IP": "Ana María Martín Rodríguez",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 10,
+        "nombre": "Condiciones De Seguridad De Periodistas Españoles Que Cubren Conflictos: Elementos Definitorios Y Analisis De Su Seguridad Antes, Durante Y Despues De La Cobertura",
+        "comunidad": "País Vasco",
+        "universidad": "Universidad del País Vasco",
+        "IP": "Leire Iturregui Mardaras",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 11,
+        "nombre": "Necesidades Y Derechos De Las Hijas E Hijos Del Feminicidio: Una Aproximacion Transdisciplinar A Las Consecuencias De La Violencia De Genero En El Contexto De La Covid-19",
+        "comunidad": "Catalunya",
+        "universidad": "Universitat Rovira i Virgili",
+        "IP": "Eva Zafra Aparici",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    },
+    {
+        "id": 12,
+        "nombre": "Estrategias Transversales Para La Prevencion De La Delincuencia Economica Y La Corrupcion",
+        "comunidad": "Madrid",
+        "universidad": "Universidad Complutense de Madrid",
+        "IP": "Íñigo Ortíz de Urbina Gimeno",
+        "financiacion": "66.308 €",
+        "resumen": "No disponible"
+    }
+]
